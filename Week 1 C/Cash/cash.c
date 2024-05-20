@@ -77,6 +77,7 @@ int calculate_nickels(int cents)
     return nickels;
 }
 
+
 // Function to calculate the number of pennies
 int calculate_pennies(int cents)
 {
