@@ -1,0 +1,3 @@
+S:/DevWorkSpace/CS50/cmake-build-debug/CMakeFiles/CS50.dir
+S:/DevWorkSpace/CS50/cmake-build-debug/CMakeFiles/edit_cache.dir
+S:/DevWorkSpace/CS50/cmake-build-debug/CMakeFiles/rebuild_cache.dir
