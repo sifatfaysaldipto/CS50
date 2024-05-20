@@ -11,6 +11,7 @@ int main(void)
     }
     while (size <= 0 || size >= 9); // Ensure the size is between 1 and 8
 
+
     // Loop to print the Mario pyramid
     for (int i = 1; i <= size; i++)
     {
