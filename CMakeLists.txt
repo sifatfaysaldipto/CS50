@@ -16,4 +16,5 @@ add_executable(CS50
         "Week 3 Algorithms/Plurality/plurality.c"
         "Week 3 Algorithms/Runoff/runoff.c"
         "Week 3 Algorithms/Tideman/tideman.c"
-        "Week 4 Memory/Volume/volume.c")
+        "Week 4 Memory/Volume/volume.c"
+        "Week 4 Memory/FilterLess/filterless.c")
