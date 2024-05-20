@@ -22,7 +22,7 @@ This project is a simple yet engaging implementation of the classic Tic Tac Toe 
 
 ## Try it Out!
 
-To play the game, simply click [here](https://scratch.mit.edu/projects/1022941547).
+To play the game, simply click [here](https://scratch.mit.edu/projects/1023158344).
 
 ## Screenshots
 
