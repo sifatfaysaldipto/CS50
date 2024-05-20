@@ -20,4 +20,5 @@ add_executable(CS50
         "Week 4 Memory/FilterLess/filterless.c"
         "Week 4 Memory/FilterMore/filtermore.c"
         "Week 4 Memory/Recover/recover.c"
-        "Week 5 Data Structures/Inheritance/inheritance.c")
+        "Week 5 Data Structures/Inheritance/inheritance.c"
+        "Week 5 Data Structures/Speller/speller.c")
