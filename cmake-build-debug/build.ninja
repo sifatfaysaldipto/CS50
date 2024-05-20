@@ -133,6 +133,12 @@ build CMakeFiles/CS50.dir/Week_4_Memory/FilterLess/filterless.c.obj: C_COMPILER_
   OBJECT_DIR = CMakeFiles\CS50.dir
   OBJECT_FILE_DIR = CMakeFiles\CS50.dir\Week_4_Memory\FilterLess
 
+build CMakeFiles/CS50.dir/Week_4_Memory/FilterMore/filtermore.c.obj: C_COMPILER__CS50_unscanned_Debug S$:/DevWorkSpace/CS50/Week$ 4$ Memory/FilterMore/filtermore.c || cmake_object_order_depends_target_CS50
+  DEP_FILE = CMakeFiles\CS50.dir\Week_4_Memory\FilterMore\filtermore.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CS50.dir
+  OBJECT_FILE_DIR = CMakeFiles\CS50.dir\Week_4_Memory\FilterMore
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target CS50
@@ -141,7 +147,7 @@ build CMakeFiles/CS50.dir/Week_4_Memory/FilterLess/filterless.c.obj: C_COMPILER_
 #############################################
 # Link the executable CS50.exe
 
-build CS50.exe: C_EXECUTABLE_LINKER__CS50_Debug CMakeFiles/CS50.dir/Week_1_C/Hello/hello.c.obj CMakeFiles/CS50.dir/Week_1_C/Cash/cash.c.obj CMakeFiles/CS50.dir/Week_1_C/Credit/credit.c.obj CMakeFiles/CS50.dir/Week_1_C/MarioLess/marioless.c.obj CMakeFiles/CS50.dir/Week_1_C/MarioMore/mariomore.c.obj CMakeFiles/CS50.dir/Week_2_Arrays/Scrabble/scrabble.c.obj CMakeFiles/CS50.dir/Week_2_Arrays/Readability/readability.c.obj CMakeFiles/CS50.dir/Week_2_Arrays/Caesar/caesar.c.obj CMakeFiles/CS50.dir/Week_2_Arrays/Substitution/substitution.c.obj CMakeFiles/CS50.dir/Week_3_Algorithms/Plurality/plurality.c.obj CMakeFiles/CS50.dir/Week_3_Algorithms/Runoff/runoff.c.obj CMakeFiles/CS50.dir/Week_3_Algorithms/Tideman/tideman.c.obj CMakeFiles/CS50.dir/Week_4_Memory/Volume/volume.c.obj CMakeFiles/CS50.dir/Week_4_Memory/FilterLess/filterless.c.obj
+build CS50.exe: C_EXECUTABLE_LINKER__CS50_Debug CMakeFiles/CS50.dir/Week_1_C/Hello/hello.c.obj CMakeFiles/CS50.dir/Week_1_C/Cash/cash.c.obj CMakeFiles/CS50.dir/Week_1_C/Credit/credit.c.obj CMakeFiles/CS50.dir/Week_1_C/MarioLess/marioless.c.obj CMakeFiles/CS50.dir/Week_1_C/MarioMore/mariomore.c.obj CMakeFiles/CS50.dir/Week_2_Arrays/Scrabble/scrabble.c.obj CMakeFiles/CS50.dir/Week_2_Arrays/Readability/readability.c.obj CMakeFiles/CS50.dir/Week_2_Arrays/Caesar/caesar.c.obj CMakeFiles/CS50.dir/Week_2_Arrays/Substitution/substitution.c.obj CMakeFiles/CS50.dir/Week_3_Algorithms/Plurality/plurality.c.obj CMakeFiles/CS50.dir/Week_3_Algorithms/Runoff/runoff.c.obj CMakeFiles/CS50.dir/Week_3_Algorithms/Tideman/tideman.c.obj CMakeFiles/CS50.dir/Week_4_Memory/Volume/volume.c.obj CMakeFiles/CS50.dir/Week_4_Memory/FilterLess/filterless.c.obj CMakeFiles/CS50.dir/Week_4_Memory/FilterMore/filtermore.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\CS50.dir
