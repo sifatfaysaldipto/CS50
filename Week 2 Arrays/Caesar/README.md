@@ -34,7 +34,7 @@ The purpose of this code is to analyze the readability level of a text input by 
 - `int count_sentences(string text)`: This function takes a string `text` as input and returns the number of sentences in the text.
     - Initializes a variable `sentences` to 0.
     - Iterates through each character in the text using a for loop and increments `sentences` when a period ('.'), exclamation mark ('!'), or question mark ('?') is encountered.
-    - Returns the total number of sentences.
+    - Returns the total number of sentences. 
 
 ## Note
 - This code assumes that the CS50 library is properly installed and configured in the environment.
