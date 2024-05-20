@@ -56,7 +56,8 @@
 				1,
 				2,
 				3,
-				4
+				4,
+				5
 			]
 		}
 	],
@@ -97,7 +98,8 @@
 				1,
 				2,
 				3,
-				4
+				4,
+				5
 			]
 		}
 	],
@@ -131,6 +133,12 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "Week 1 C/MarioMore/mariomore.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Week 2 Arrays/Scrabble/scrabble.c",
 			"sourceGroupIndex" : 0
 		}
 	],
