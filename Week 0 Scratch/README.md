@@ -26,7 +26,7 @@ To play the game, simply click [here](https://scratch.mit.edu/projects/102294154
 
 ## Screenshots
 
-![Tic Tac Toe Game Screenshot](https://github.com/sifatfaysaldipto/CS50/blob/main/Week%200%20Scratch/Tic%20Tac%20Toe%20Game.png)
+![Tic Tac Toe Game Screenshot](https://github.com/sifatfaysaldipto/CS50/blob/main/Week%200%20Scratch/tic-tac-toe-scratch.png)
 
 ## Credits
 
