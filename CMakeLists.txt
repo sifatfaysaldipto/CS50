@@ -13,4 +13,5 @@ add_executable(CS50
         "Week 2 Arrays/Readability/readability.c"
         "Week 2 Arrays/Caesar/caesar.c"
         "Week 2 Arrays/Substitution/substitution.c"
-        "Week 3 Algorithms/Plurality/plurality.c")
+        "Week 3 Algorithms/Plurality/plurality.c"
+        "Week 3 Algorithms/Runoff/runoff.c")
