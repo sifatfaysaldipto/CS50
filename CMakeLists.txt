@@ -9,4 +9,5 @@ add_executable(CS50
         "Week 1 C/Credit/credit.c"
         "Week 1 C/MarioLess/marioless.c"
         "Week 1 C/MarioMore/mariomore.c"
-        "Week 2 Arrays/Scrabble/scrabble.c")
+        "Week 2 Arrays/Scrabble/scrabble.c"
+        "Week 2 Arrays/Readability/readability.c")
