@@ -1,0 +1,50 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Build folders
+Debug/
+Release/
+x64/
+x86/
+bin/
+obj/
+build/
+
+# Visual Studio files
+.vs/
+*.suo
+*.sln.docstates
+
+# Visual Studio Code files
+.vscode/
+
+# JetBrains Rider files
+.idea/
+
+# Unity files
+Library/
+Temp/
+Obj/
