@@ -13,6 +13,7 @@ int main(void)
     }
     while (height < 1 || height > 8); // Ensure height is between 1 and 8
 
+
     // Outer loop to iterate over each line of the pyramid
     for (int line = 0; line < height; line++)
     {
