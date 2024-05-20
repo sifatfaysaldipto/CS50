@@ -4,4 +4,4 @@ project(CS50 C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(CS50
-        "Week 1 C/hello.c")
+        "Week 1 C/Hello/hello.c")
